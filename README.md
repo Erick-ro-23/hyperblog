@@ -19,7 +19,7 @@ Las Imagenes Que Son Archivos .Bin O Archivos Binarios Es Importante Tenerlos Fu
 * Crear un proyecto o rama aparte de prueba llamado Staging develop o Servidor de desarrollo antes de fusionar con mi rama master y subirlo a mi servidor de producción.
 * Crear un Readme.md
 * Creado por el increible Erick 23.
-
-Nota: este es el repo de mi imagen: [FutureTK][futuretk]
+* Incluye ejemplos en windows linux y mac.
+  Nota: este es el repo de mi imagen: [FutureTK][futuretk]
 
 [futuretk]: https://imgur.com/user/ErickRO23/posts "mi post en imgur"
