@@ -18,6 +18,7 @@ Las Imagenes Que Son Archivos .Bin O Archivos Binarios Es Importante Tenerlos Fu
 * Siempre hacer un git pull antes de un git push.
 * Crear un proyecto o rama aparte de prueba llamado Staging develop o Servidor de desarrollo antes de fusionar con mi rama master y subirlo a mi servidor de producción.
 * Crear un Readme.md
+* Creado por el increible Erick 23.
 
 Nota: este es el repo de mi imagen: [FutureTK][futuretk]
 
