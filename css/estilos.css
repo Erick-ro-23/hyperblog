@@ -40,3 +40,9 @@ body{
 #post{
     padding: 1em;
 }
+
+#footer{
+    padding: 5px;
+    background-color: blue;
+    color:aliceblue;
+}
