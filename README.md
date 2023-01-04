@@ -20,6 +20,8 @@ Las Imagenes Que Son Archivos .Bin O Archivos Binarios Es Importante Tenerlos Fu
 * Crear un Readme.md
 * Creado por el increible Erick 23.
 * Incluye ejemplos en windows linux y mac.
+* Disponible en este blog para todos.
+
   Nota: este es el repo de mi imagen: [FutureTK][futuretk]
 
 [futuretk]: https://imgur.com/user/ErickRO23/posts "mi post en imgur"
